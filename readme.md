@@ -11,7 +11,7 @@ The purpose of this project is to be able to refresh the Spotify access token (g
 <br>
 
  ## 📦 Installation
- -----------------
+ 
 Clone the repository and install its dependencies running:
 
  > npm install
@@ -26,7 +26,7 @@ Clone the repository and install its dependencies running:
 
 
   ## ⚙ Configuration
-  -----------------
+  
 **Rename `.env_template` to `.env` and add your Spotify credentials**
 
  ```
